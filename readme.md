@@ -9,6 +9,7 @@ Welcome to GitHub Classroom! Here you'll find the links to all the weekly assign
 
 ### Week 2 (March 18, 2024)
 - [Week 2: C Fundamental - The Most Basic Definition](https://classroom.github.com/a/g08unoXJ)
+- [Week 2: C Fundamental - The Most Basic Definition | Sample Answer](./SampleAnswer/Week2/src/)
 
 ### Week 3
 - ***Updating...***
