@@ -14,6 +14,9 @@ Welcome to GitHub Classroom! Here you'll find the links to all the weekly assign
 ### Week 3
 - [Week 3: C Fundamental - The Way C Works](https://classroom.github.com/a/IaeDFps5)
 
+### Week 4
+- [Week 4: C Pointers](https://classroom.github.com/a/ELL84ZIj)
+
 
 ## Submission Guidelines
 
