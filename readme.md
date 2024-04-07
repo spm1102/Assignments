@@ -12,7 +12,7 @@ Welcome to GitHub Classroom! Here you'll find the links to all the weekly assign
 - [Week 2: C Fundamental - The Most Basic Definition | Sample Answer](./SampleAnswer/Week2/src/)
 
 ### Week 3
-- ***Updating...***
+- [Week 3: C Fundamental - The Way C Works](https://classroom.github.com/a/IaeDFps5)
 
 
 ## Submission Guidelines
