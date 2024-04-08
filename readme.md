@@ -11,8 +11,14 @@ Welcome to GitHub Classroom! Here you'll find the links to all the weekly assign
 - [Week 2: C Fundamental - The Most Basic Definition](https://classroom.github.com/a/g08unoXJ)
 - [Week 2: C Fundamental - The Most Basic Definition | Sample Answer](./SampleAnswer/Week2/src/)
 
-### Week 3
-- ***Updating...***
+### Week 3 (March 25, 2024)
+- [Week 3: C Fundamental - The Way C Works](https://classroom.github.com/a/IaeDFps5)
+
+### Week 4 (April 1, 2024)
+- [Week 4: C Pointers](https://classroom.github.com/a/ELL84ZIj)
+
+### Midterm Project (April 8, 2024)
+- [Midterm: Building A Shell In C](https://classroom.github.com/a/jN_gXyqP)
 
 
 ## Submission Guidelines
